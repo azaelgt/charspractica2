@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
+    "type": "https://github.com/azaelgt/charspractica2",
     "url": "aun por crear"
   },
   "author": "Azael Abdias",
